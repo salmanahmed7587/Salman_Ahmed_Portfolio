@@ -1,6 +1,20 @@
 const Projects = () => {
     const projects = [
         {
+            title: 'Wind Forecast Dashboard',
+            description: 'A production-quality dashboard for wind generation analysis and forecasting, utilizing real-time Elexon BMRS data.',
+            tags: ['React', 'Next.js', 'Tailwind', 'Recharts'],
+            demo: 'https://wind-generation-forecast-dashboard.vercel.app',
+            image: '🌬️'
+        },
+        {
+            title: 'Fenrir Security',
+            description: 'An automated security testing platform designed to discover vulnerabilities across an organization\'s attack surface.',
+            tags: ['React', 'Tailwind', 'Framer Motion', 'Cybersecurity'],
+            demo: 'https://fenrir-security-frontend-design-cha.vercel.app',
+            image: '🛡️'
+        },
+        {
             title: 'Cinema House',
             description: 'A modern movie browsing application built with React. Explore trending movies, search, and view detailed information.',
             tags: ['React', 'API Integration', 'Responsive'],

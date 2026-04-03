@@ -10,13 +10,16 @@ const About = () => {
                 <div className="grid md:grid-cols-3 gap-12">
                     <div className="md:col-span-2 space-y-6 text-lg text-slate-400 leading-relaxed">
                         <p>
-                            I am a <strong className="text-slate-200">Fresher Frontend Developer</strong> with a job-ready mindset and a passion for building consistent, pixel-perfect user interfaces.
+                            I am a <strong className="text-slate-200">frontend-focused engineer</strong> specializing in <strong className="text-cyan-400">React.js</strong>, building data-driven and production-ready web applications with a strong emphasis on performance, scalability, and user experience.
                         </p>
                         <p>
-                            While I specialize in <strong className="text-cyan-400">React.js</strong> and modern JavaScript, my goal is to become a full-stack developer. I don't just write code; I focus on cleaner architecture, user experience, and continuous improvement.
+                            I have hands-on experience developing dashboard-style applications, including a wind and weather forecast dashboard that integrates real-time APIs, visualizes data, and delivers actionable insights through a clean, component-driven architecture.
                         </p>
                         <p>
-                            I am highly motivated, a quick learner, and actively upgrading my skills with the latest web technologies to deliver value in a professional environment.
+                            My approach goes beyond UI development — I focus on building maintainable systems, optimizing performance, and creating intuitive user experiences that solve real-world problems.
+                        </p>
+                        <p>
+                            I am continuously expanding toward full-stack development while actively seeking opportunities to contribute to impactful products, take ownership, and deliver meaningful results from day one.
                         </p>
                     </div>
 
